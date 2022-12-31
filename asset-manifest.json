@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Faisalkhan1123/myTravelJournal.git/static/css/main.fac8fabd.css",
+    "main.js": "/Faisalkhan1123/myTravelJournal.git/static/js/main.871f65dc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Faisalkhan1123/myTravelJournal.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Faisalkhan1123/myTravelJournal.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Faisalkhan1123/myTravelJournal.git/index.html",
+    "main.fac8fabd.css.map": "/Faisalkhan1123/myTravelJournal.git/static/css/main.fac8fabd.css.map",
+    "main.871f65dc.js.map": "/Faisalkhan1123/myTravelJournal.git/static/js/main.871f65dc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Faisalkhan1123/myTravelJournal.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fac8fabd.css",
+    "static/js/main.871f65dc.js"
+  ]
+}
